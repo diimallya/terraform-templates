@@ -1,0 +1,13 @@
+{
+   "name": "Create_T2_Micro_EC2",
+   "description": "Description for Create_T2_Micro_EC2.",
+   "type": "userCreated",
+   "manifest": {
+     "template_type": "Terraform",
+     "template_format": "HCL",
+     "template_provider": "Amazon EC2"
+   },
+   "metadata": {
+     "bullets": []
+   }
+ }
