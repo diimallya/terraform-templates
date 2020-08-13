@@ -7,6 +7,7 @@
 variable "aws_instance_ami" {
   type = "string"
   description = "Generated"
+  default = "ami-016b213e65284e9c9"
 }
 
 variable "aws_instance_aws_instance_type" {
@@ -18,6 +19,7 @@ variable "aws_instance_aws_instance_type" {
 variable "availability_zone" {
   type = "string"
   description = "Generated"
+  default = "us-east"
 }
 
 variable "aws_instance_name" {
